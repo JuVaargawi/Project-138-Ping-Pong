@@ -1,0 +1,32 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+    margin-bottom: 5px;
+}
+.heading h3{
+    display: inline;
+    font-size: 22px;
+}
+.heading button{
+    float: right;
+    border: 1px solid rgb(212, 103, 255);
+}
+.footer{
+    background-color: rgb(255, 160, 239);
+    width: 100%;
+    margin-bottom: 0px;
+    color: rgb(204, 74, 255);
+    line-height: 2;
+    bottom: 0px;
+    position: sticky;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.modal-body{
+    text-align: left;
+}
